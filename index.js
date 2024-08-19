@@ -3,7 +3,7 @@ const elemento = document.querySelector("#resposta123")
 const digiteaqui = document.querySelector("#digite")
 
 const respostas = [
-    "Outro usário já realizou esse cálculo",
+    "Outro usuário já realizou esse cálculo",
    ]
 
 function fazerpergunta () {
